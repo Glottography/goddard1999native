@@ -12,7 +12,7 @@ cldfbench download cldfbench_goddard1999native.py
 ```shell
 cldfbench makecldf cldfbench_goddard1999native.py --glottolog-version v5.2
 cldfbench cldfreadme cldfbench_goddard1999native.py
-cldfbench zenodo cldfbench_goddard1999native.py
+cldfbench zenodo --communities glottography cldfbench_goddard1999native.py
 cldfbench readme cldfbench_goddard1999native.py
 ```
 
