@@ -1,0 +1,319 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+achu1247,Achumawi,,41.0979,-121.191,achu1247,,2,language,Palaihnihan,languages
+adai1235,Adai,,31.6314,-92.0059,adai1235,,4,language,,languages
+ahte1237,Ahtena,,61.7068,-144.889,ahte1237,,5,language,Athabaskan-Eyak-Tlingit,languages
+alab1237,Alabama,,30.76738,-94.62848,alab1237,,6,language,Muskogean,languages
+aleu1260,Aleut,,52.1228,-174.29,aleu1260,,7,language,Eskimo-Aleut,languages
+algo1255,Algonquin,,47.3876,-77.5258,algo1255,,8,language,Algic,languages
+alse1251,Alsea-Yaquina,,44.408,-123.94,alse1251,,9 321,language,,languages
+apal1237,Apalachee,,30.118,-84.416,apal1237,,10,language,Muskogean,languages
+aran1265,Aranama,,28.65425,-97.38526,aran1265,,12,language,Unclassifiable,languages
+arap1274,Arapaho,,43.3879,-108.81,arap1274,,13,language,Algic,languages
+arik1262,Arikara,,45.0,-100.0,arik1262,,14,language,Caddoan,languages
+assi1247,Assiniboine,,49.2923,-106.068,assi1247,,15,language,Siouan,languages
+atak1252,Atakapa,,30.9121,-93.0827,atak1252,,16,language,,languages
+atik1240,Atikamekw,,47.9555,-73.7989,atik1240,,17,language,Algic,languages
+babi1235,Witsuwit'en-Babine,,55.0997,-126.41,babi1235,,18,language,Athabaskan-Eyak-Tlingit,languages
+barb1263,Barbareño,,34.462,-119.699,barb1263,,20,language,Chumashan,languages
+beav1236,Beaver,,56.7984,-120.352,beav1236,,22,language,Athabaskan-Eyak-Tlingit,languages
+bell1243,Bella Coola,,52.3448,-126.689,bell1243,,23,language,Salishan,languages
+beot1247,Beothuk,,48.0,-57.0,beot1247,,24,language,,languages
+bilo1248,Biloxi,,31.32,-89.1951,bilo1248,,25,language,Siouan,languages
+buen1244,Buena Vista Yokuts,,35.22038,-119.23748,buen1244,,27,language,Yokutsan,languages
+cadd1256,Caddo,,33.33,-93.5,cadd1256,,28,language,Caddoan,languages
+cahu1264,Cahuilla,,33.5324,-116.691,cahu1264,,31,language,Uto-Aztecan,languages
+calu1239,Calusa,,,,calu1239,,32,language,Unclassifiable,languages
+caro1243,Carolina Algonquian,,35.979,-77.291,caro1243,,34,language,Algic,languages
+carr1249,Central Carrier,,54.3768,-124.328,carr1249,,35,language,Athabaskan-Eyak-Tlingit,languages
+cata1286,Catawba,,34.9685,-80.8857,cata1286,,36,language,Siouan,languages
+cayu1241,Cayuse,,46.1136,-117.94,cayu1241,,37,language,,languages
+cent2127,Central Alaskan Yupik,,60.3062,-161.486,cent2127,,38,language,Eskimo-Aleut,languages
+cent2128,Central Siberian Yupik,,63.4308,-170.272,cent2128,,40,language,Eskimo-Aleut,languages
+cent2138,Central Pomo,,38.90547,-123.66393,cent2138,,39,language,Pomoan,languages
+cent2140,Central Sierra Miwok,,38.0812,-120.257,cent2140,,41,language,Miwok-Costanoan,languages
+cher1273,Cherokee,,35.4664,-83.163,cher1273,,45,language,Iroquoian,languages
+chey1247,Cheyenne,,45.5321,-106.659,chey1247,,46,language,Algic,languages
+chic1270,Chickasaw,,34.0,-88.0,chic1270,,47,language,Muskogean,languages
+chil1280,Chilcotin-Nicola,,51.98952,-123.24458,chil1280,,48 181,language,Athabaskan-Eyak-Tlingit,languages
+chim1301,Chimariko,,41.0,-123.0,chim1301,,49,language,,languages
+chim1310,Chimakum,,47.91457,-123.139145,chim1310,,44,language,Chimakuan,languages
+chin1286,Clatsop-Shoalwater Chinook,,46.39132,-123.9249,chin1286,,144,language,Chinookan,languages
+chip1241,Chippewa,,47.347,-94.2738,chip1241,,42,language,Algic,languages
+chip1261,Chipewyan,,58.98,-104.44,chip1261,,50,language,Athabaskan-Eyak-Tlingit,languages
+chit1248,Chitimacha,,30.3386,-90.9123,chit1248,,51,language,,languages
+choc1276,Choctaw,,32.25,-88.5,choc1276,,52,language,Muskogean,languages
+clal1241,Clallam,,48.0707,-123.511,clal1241,,53,language,Salishan,languages
+coah1252,Coahuilteco,,28.2589,-97.89,coah1252,,55,language,,languages
+coch1272,Cochimi,,29.04,-114.077,coch1272,,29,language,Cochimi-Yuman,languages
+coco1261,Cocopa,,32.376,-114.848,coco1261,,57,language,Cochimi-Yuman,languages
+coeu1236,Coeur d'Alene,,47.2958,-116.715,coeu1236,,58,language,Salishan,languages
+colu1241,Columbia-Wenatchi,,48.217,-118.454,colu1241,,59,language,Salishan,languages
+coma1245,Comanche,,34.0,-101.0,coma1245,,60,language,Uto-Aztecan,languages
+come1251,Comecrudan,,26.1333,-98.4667,come1251,,62,language,,languages
+como1259,Comox,,49.7233,-124.967,como1259,,63,language,Salishan,languages
+coos1249,Hanis,,43.4413,-124.16,coos1249,,97,language,Coosan,languages
+coto1248,Cotoname,,25.9116,-97.3956,coto1248,,64,language,,languages
+cowl1242,Cowlitz,,46.4167,-122.917,cowl1242,,65,language,Salishan,languages
+cree1270,Creek,,31.0,-87.5,cree1270,,66,language,Muskogean,languages
+crow1244,Crow,,45.368,-107.874,crow1244,,67,language,Siouan,languages
+cruz1243,Cruzeño,,34.0465,-119.864,cruz1243,,114,language,Chumashan,languages
+dako1258,Dakota,,45.86,-96.58,dako1258,,233 319,language,Siouan,languages
+dege1248,Degexit'an,,62.0697,-160.044,dege1248,,110,language,Athabaskan-Eyak-Tlingit,languages
+diti1235,Ditidaht,,48.67,-124.75,diti1235,,183,language,Wakashan,languages
+dogr1252,Dogrib,,63.17,-117.25,dogr1252,,68,language,Athabaskan-Eyak-Tlingit,languages
+east1472,Eastern Keres,,35.5216,-106.453,east1472,,73,language,Keresan,languages
+east2534,Eastern Canadian Inuktitut,,62.1735,-75.6139,east2534,,72,language,Eskimo-Aleut,languages
+east2542,Eastern Ojibwa,,45.0112,-79.7503,east2542,,74,language,Algic,languages
+east2544,Eastern Abenaki,,45.0112,-68.6617,east2544,,71,language,Algic,languages
+east2545,Eastern Pomo,,38.5647,-122.586,east2545,,75,language,Pomoan,languages
+esse1238,Esselen,,36.5473,-121.867,esse1238,,80,language,,languages
+eude1234,Eudeve,,28.5,-110.0,eude1234,,82,language,Uto-Aztecan,languages
+eyak1241,Eyak,,60.4232,-144.762,eyak1241,,83,language,Athabaskan-Eyak-Tlingit,languages
+gali1261,Galice,,42.56343,-123.5854,gali1261,,11,language,Athabaskan-Eyak-Tlingit,languages
+gitx1241,Gitxsan,,55.09,-128.08,gitx1241,,175,language,Tsimshian,languages
+gros1243,Gros Ventre,,48.4834,-108.738,gros1243,,87,language,Algic,languages
+guai1237,Guaicurian,,24.1666666667,-110.3,guai1237,,89,language,,languages
+gual1239,Guale,,,,gual1239,,90,language,Unattested,languages
+gwic1235,Gwich'in,,67.4307,-142.963,gwic1235,,136,language,Athabaskan-Eyak-Tlingit,languages
+hais1244,Haisla,,53.964,-128.602,hais1244,,94,language,Wakashan,languages
+halk1245,Halkomelem,,49.250402,-122.443668,halk1245,,95,language,Salishan,languages
+hann1241,Han,,64.5002,-140.352,hann1241,,96,language,Athabaskan-Eyak-Tlingit,languages
+hava1248,Havasupai-Walapai-Yavapai,,35.6302,-113.385,hava1248,,99,language,Cochimi-Yuman,languages
+heil1246,Heiltsuk-Oowekyala,,51.7045,-127.221,heil1246,,100,language,Wakashan,languages
+hida1246,Hidatsa,,47.33,-102.0,hida1246,,101,language,Siouan,languages
+hoch1243,Ho-Chunk,,43.5,-88.5,hoch1243,,312,language,Siouan,languages
+holi1241,Holikachuk,,62.7266,-159.831,holi1241,,103,language,Athabaskan-Eyak-Tlingit,languages
+hopi1249,Hopi,,35.7653,-110.535,hopi1249,,104,language,Uto-Aztecan,languages
+huar1255,Huarijio,,27.8685,-108.437,huar1255,,91,language,Uto-Aztecan,languages
+hupa1239,Hupa-Chilula,,41.0982,-123.68,hupa1239,,106,language,Athabaskan-Eyak-Tlingit,languages
+ines1240,Ineseño,,34.6169,-120.08,ines1240,,109,language,Chumashan,languages
+iowa1245,Iowa-Oto,,40.0511,-95.5213,iowa1245,,112,language,Siouan,languages
+ipai1240,Ipai,,33.005,-116.993,ipai1240,,113,language,Cochimi-Yuman,languages
+jeme1245,Towa,,35.5994,-106.766,jeme1245,,282,language,Kiowa-Tanoan,languages
+jica1244,Jicarilla Apache,,36.8079,-107.007,jica1244,,115,language,Athabaskan-Eyak-Tlingit,languages
+kala1399,Kalaallisut,,69.3761,-52.864,kala1399,,305,language,Eskimo-Aleut,languages
+kala1400,Central Kalapuya,,44.9861,-123.925,kala1400,,116,language,Kalapuyan,languages
+kali1308,Kalispel-Pend d'Oreille,,47.5825,-114.19,kali1308,,85 117,language,Salishan,languages
+kans1243,Kansa,,39.0,-94.4,kans1243,,118,language,Siouan,languages
+kara1289,Karankawa,,28.9082,-96.4856,kara1289,,119,language,,languages
+karo1304,Karuk,,41.8228,-123.315,karo1304,,120,language,,languages
+kash1280,Kashaya,,38.5424,-123.08,kash1280,,121,language,Pomoan,languages
+kask1239,Kaska,,61.0,-130.0,kask1239,,122,language,Athabaskan-Eyak-Tlingit,languages
+kath1253,Kathlamet,,46.197,-123.56,kath1253,,123,language,Chinookan,languages
+kato1244,Kato,,39.7002,-123.432,kato1244,,30,language,Athabaskan-Eyak-Tlingit,languages
+kawa1283,Kawaiisu,,36.0538,-118.679,kawa1283,,124,language,Uto-Aztecan,languages
+kick1244,Kickapoo,,41.655145,-89.03034,kick1244,,125,language,Algic,languages
+kili1268,Kiliwa,,30.5471,-115.123,kili1268,,126,language,Cochimi-Yuman,languages
+kiow1264,Kiowa Apache,,34.9077,-98.2461,kiow1264,,128,language,Athabaskan-Eyak-Tlingit,languages
+kiow1266,Kiowa,,34.9403,-98.9042,kiow1266,,127,language,Kiowa-Tanoan,languages
+kits1249,Kitsai,,31.83,-96.5,kits1249,,129,language,Caddoan,languages
+klam1254,Klamath-Modoc,,42.5861,-121.704,klam1254,,130,language,,languages
+koas1236,Koasati,,30.4096,-92.709,koas1236,,131,language,Muskogean,languages
+kono1241,Konomihu,,41.263356,-123.310776,kono1241,,133,language,Shastan,languages
+koyu1237,Koyukon,,65.6093,-154.229,koyu1237,,135,language,Athabaskan-Eyak-Tlingit,languages
+kumi1248,Tipai,,32.331,-116.604,kumi1248,,277,language,Cochimi-Yuman,languages
+kute1249,Kutenai,,48.7892,-115.065,kute1249,,134,language,,languages
+kwak1269,Kwak'wala,,50.9269,-127.308,kwak1269,,137,language,Wakashan,languages
+kwal1258,Kwalhioqua-Clatskanie,,46.111979,-123.209332,kwal1258,,54,language,Athabaskan-Eyak-Tlingit,languages
+lake1258,Lake Miwok,,39.0021,-122.621,lake1258,,138,language,Miwok-Costanoan,languages
+lako1247,Lakota,,46.3699,-103.95,lako1247,,274,language,Siouan,languages
+laur1250,Laurentian,,45.33,-72.5,laur1250,,139,language,Iroquoian,languages
+lill1248,Lillooet,,50.7272,-122.04,lill1248,,140,language,Salishan,languages
+lipa1241,Lipan Apache,,29.93117,-98.94286,lipa1241,,141,language,Athabaskan-Eyak-Tlingit,languages
+loup1243,Nipmuck,,42.364,-72.731,loup1243,,142,language,Algic,languages
+lowe1425,Lower Tanana,,64.8834,-149.451,lowe1425,,146,language,Athabaskan-Eyak-Tlingit,languages
+lowe1427,Lower Chehalis,,46.7736,-124.004,lowe1427,,143,language,Salishan,languages
+luis1253,Luiseno-Juaneño,,33.3184,-116.939,luis1253,,147,language,Uto-Aztecan,languages
+lush1252,Northern Lushootseed,,48.42,-122.529,lush1252,,148,language,Salishan,languages
+mahi1248,Mahican,,42.587,-73.788,mahi1248,,149,language,Algic,languages
+maka1318,Makah,,48.3258,-124.616,maka1318,,151,language,Wakashan,languages
+male1292,Malecite-Passamaquoddy,,45.494475,-67.40805,male1292,,152 212,language,Algic,languages
+mand1446,Mandan,,46.83,-101.0,mand1446,,153,language,Siouan,languages
+mara1266,Maratino,,24.339089,-98.576661,mara1266,,154,language,,languages
+mari1440,Maricopa,,33.5123,-111.749,mari1440,,155,language,Cochimi-Yuman,languages
+matt1238,Mattole-Bear River,,40.4321,-122.863,matt1238,,157,language,Athabaskan-Eyak-Tlingit,languages
+mehe1242,Meherrin,,36.66342,-77.57783,mehe1242,,158,language,Unclassifiable,languages
+meno1252,Menominee,,44.9794,-88.6395,meno1252,,159,language,Algic,languages
+mesc1238,Mescalero-Chiricahua Apache,,33.1291,-105.566,mesc1238,,160,language,Athabaskan-Eyak-Tlingit,languages
+mesk1242,Meskwaki,,44.0,-89.0,mesk1242,,86 235,language,Algic,languages
+miam1252,Miami,,40.0,-90.0,miam1252,,108 161,language,Algic,languages
+mika1239,Mikasuki,,31.5,-84.0,mika1239,,102,language,Muskogean,languages
+mikm1235,Mi'kmaq,,46.0,-64.0,mikm1235,,162,language,Algic,languages
+milu1241,Miluk,,43.3215,-124.258,milu1241,,163,language,Coosan,languages
+moha1256,Mohave,,34.8866,-114.599,moha1256,,166,language,Cochimi-Yuman,languages
+moha1258,Mohawk,,43.72,-74.66836,moha1258,,164,language,Iroquoian,languages
+mohe1244,Mohegan-Montauk-Narragansett,,41.8581,-72.1701,mohe1244,,156 165,language,Algic,languages
+mola1238,Molale,,44.556,-122.857,mola1238,,167,language,,languages
+mono1275,Mono (USA),,37.1935,-119.347,mono1275,,168,language,Uto-Aztecan,languages
+mont1268,Montagnais,,49.0533,-68.7376,mont1268,,169,language,Algic,languages
+muns1251,Munsee,,41.11,-74.17,muns1251,,171,language,Algic,languages
+nant1249,Nanticoke,,39.67781,-74.98648,nant1249,,172,language,Algic,languages
+naol1234,Naolan,,,,naol1234,,173,language,Unclassifiable,languages
+nask1242,Naskapi,,55.9316,-61.1318,nask1242,,174,language,Algic,languages
+nauk1242,Naukan Yupik,,65.5184,-171.755,nauk1242,,176,language,Eskimo-Aleut,languages
+nava1243,Navajo,,36.33,-109.38,nava1243,,177,language,Athabaskan-Eyak-Tlingit,languages
+nawa1259,Nawathinehena,,41.316,-104.45,nawa1259,,178,language,Algic,languages
+newr1237,New River Shasta,,41.100052,-123.179627,newr1237,,179,language,Shastan,languages
+nezp1238,Nez Perce,,46.3073,-116.408,nezp1238,,180,language,Sahaptian,languages
+nise1244,Nisenan,,38.047,-120.393,nise1244,,182,language,Maiduan,languages
+nook1247,Nooksack,,48.2201,-121.973,nook1247,,185,language,Salishan,languages
+nort1550,Taos Northern Tiwa,,36.4277,-105.604,nort1550,,269,language,Kiowa-Tanoan,languages
+nort1552,Northern East Cree,,55.1928,-77.7505,nort1552,,69,language,Algic,languages
+nort2941,Northern Tutchone,,62.8235,-136.644,nort2941,,195,language,Athabaskan-Eyak-Tlingit,languages
+nort2942,North Slavey,,63.5,-125.67,nort2942,,21 98 170,language,Athabaskan-Eyak-Tlingit,languages
+nort2943,North Alaskan Inupiatun,,69.582,-143.77,nort2943,,187,language,Eskimo-Aleut,languages
+nort2945,Seward Alaska Inupiatun,,64.77955,-161.80666,nort2945,,243,language,Eskimo-Aleut,languages
+nort2951,Northwest Maidu,,39.6721,-121.368,nort2951,,132,language,Maiduan,languages
+nort2952,Northeast Maidu,,40.4102,-120.645,nort2952,,150,language,Maiduan,languages
+nort2954,Northern Paiute,,40.0799,-119.536,nort2954,,19 190,language,Uto-Aztecan,languages
+nort2966,Northern Pomo,,39.1084,-123.209,nort2966,,191,language,Pomoan,languages
+nort2967,Northeastern Russian River Pomo,,39.2894,-122.509,nort2967,,188,language,Pomoan,languages
+nort2968,Northern Sierra Miwok,,38.4179,-120.588,nort2968,,193,language,Miwok-Costanoan,languages
+nort2969,San Francisco Bay Ohlone,,37.436487,-121.827674,nort2969,,189 266,language,Miwok-Costanoan,languages
+nort2984,Northern Pame,,22.0968,-99.6434,nort2984,,210,language,Otomanguean,languages
+nott1246,Nottoway,,36.72,-77.115,nott1246,,197,language,Iroquoian,languages
+nucl1649,Southern-Coastal Tsimshian,,52.59103,-128.544545,nucl1649,,56,language,Tsimshian,languages
+nuuc1236,Nuu-chah-nulth,,49.67,-126.67,nuuc1236,,186,language,Wakashan,languages
+obis1242,Obispeño,,35.2873,-120.669,obis1242,,198,language,Chumashan,languages
+okan1243,Okanagan,,49.2745,-119.294,okan1243,,199,language,Salishan,languages
+omah1247,Omaha-Ponca,,42.0944,-96.5295,omah1247,,200 221,language,Siouan,languages
+onei1249,Oneida,,43.438742,-75.708106,onei1249,,201,language,Iroquoian,languages
+onon1246,Onondaga,,42.92,-76.12,onon1246,,202,language,Iroquoian,languages
+opat1246,Teguima,,31.15211,-110.06212,opat1246,,203,language,Uto-Aztecan,languages
+osag1243,Osage,,36.7828,-96.2949,osag1243,,204,language,Siouan,languages
+otta1242,Ottawa,,44.5988,-83.226,otta1242,,205,language,Algic,languages
+paci1278,Pacific Gulf Yupik,,60.4238,-148.043,paci1278,,206,language,Eskimo-Aleut,languages
+paip1241,Paipai,,31.6063,-115.871,paip1241,,207,language,Cochimi-Yuman,languages
+pale1254,Palewyami Yokuts,,35.556742,-119.073757,pale1254,,209,language,Yokutsan,languages
+pana1305,Panamint,,36.0007,-117.901,pana1305,,211,language,Uto-Aztecan,languages
+patw1250,Patwin,,39.2143,-122.0094,patw1250,,213,language,Wintuan,languages
+pawn1254,Pawnee,,36.2862,-96.8937,pawn1254,,214,language,Caddoan,languages
+pent1242,Pentlatch,,49.1936,-124.689,pent1242,,216,language,Salishan,languages
+peri1250,Pericú,,23.316718,-109.614813,peri1250,,217,language,Unclassifiable,languages
+pima1248,Pima Bajo,,28.654,-108.326,pima1248,,145,language,Uto-Aztecan,languages
+piro1248,Piro,,35.2291,-106.415,piro1248,,218,language,Kiowa-Tanoan,languages
+plai1258,Plains Cree,,51.2437,-110.463,plai1258,,219,language,Algic,languages
+plai1259,Plains Miwok,,38.39772,-121.653344,plai1259,,220,language,Miwok-Costanoan,languages
+pota1247,Potawatomi,,40.955,-89.1881,pota1247,,222,language,Algic,languages
+powh1243,Powhatan,,36.99422,-77.20752,powh1243,,301,language,Algic,languages
+puri1259,Purisimeño,,34.6866,-120.431,puri1259,,223,language,Chumashan,languages
+quap1242,Quapaw,,34.15,-92.0,quap1242,,224,language,Siouan,languages
+quec1382,Quechan,,32.7859,-114.599,quec1382,,225,language,Cochimi-Yuman,languages
+quil1240,Quileute,,47.9106,-124.603,quil1240,,226,language,Chimakuan,languages
+quin1251,Quinault,,47.4214,-124.16,quin1251,,227,language,Salishan,languages
+quin1252,Quinigua,,,,quin1252,,228,language,Unclassifiable,languages
+sali1253,Salinan,,36.18753,-121.05221,sali1253,,232,language,,languages
+sanf1266,San Francisco Solano,,,,sanf1266,,249,language,Unclassifiable,languages
+sars1236,Sarsi,,50.8822,-114.301,sars1236,,234,language,Athabaskan-Eyak-Tlingit,languages
+sech1246,Sechelt,,49.4757,-123.765,sech1246,,237,language,Salishan,languages
+seka1250,Sekani,,57.4421,-125.664,seka1250,,238,language,Athabaskan-Eyak-Tlingit,languages
+sene1264,Seneca,,42.56,-77.53,sene1264,,239,language,Iroquoian,languages
+seri1257,Seri,,28.9877,-112.384,seri1257,,240,language,,languages
+serr1255,Serrano,,33.9479,-116.772,serr1255,,241,language,Uto-Aztecan,languages
+seve1240,Severn Ojibwa,,53.9092,-89.9331,seve1240,,242,language,Algic,languages
+shaw1249,Shawnee,,40.0,-83.0,shaw1249,,244,language,Algic,languages
+shos1248,Shoshoni,,41.0,-116.0,shos1248,,76 192 309,language,Uto-Aztecan,languages
+shus1248,Shuswap,,50.8734,-119.667,shus1248,,245,language,Salishan,languages
+siks1238,Siksika,,49.0669,-113.109,siks1238,,26,language,Algic,languages
+sire1246,Old Sirenik,,64.5192,-173.925,sire1246,,246,language,Eskimo-Aleut,languages
+sius1254,Siuslaw,,42.5111,-124.379,sius1254,,247,language,,languages
+sout2957,Southern Tutchone,,60.7823,-136.573,sout2957,,257,language,Athabaskan-Eyak-Tlingit,languages
+sout2959,South Slavey,,59.8794,-117.047,sout2959,,248,language,Athabaskan-Eyak-Tlingit,languages
+sout2961,Southern Tiwa,,34.7873,-106.661,sout2961,,256,language,Kiowa-Tanoan,languages
+sout2977,Southwestern Tepehuan,,23.2553,-104.688,sout2977,,255,language,Uto-Aztecan,languages
+sout2982,Southeastern Pomo,,38.9354,-122.599,sout2982,,250,language,Pomoan,languages
+sout2984,Southern Pomo,,38.7643,-122.545,sout2984,,253,language,Pomoan,languages
+sout2985,Southern Sierra Miwok,,38.2363,-120.507,sout2985,,254,language,Miwok-Costanoan,languages
+spok1245,Spokane,,47.9087,-118.062,spok1245,,258,language,Salishan,languages
+squa1248,Squamish,,49.3231,-123.014,squa1248,,259,language,Salishan,languages
+ston1242,Stoney,,51.1939,-114.984,ston1242,,260,language,Siouan,languages
+stra1244,Northern Straits Salish,,48.51614,-123.757114,stra1244,,194,language,Salishan,languages
+susq1241,Susquehannock,,41.169,-76.208,susq1241,,261,language,Iroquoian,languages
+swam1239,Swampy Cree,,56.0,-95.0,swam1239,,77 310,language,Algic,languages
+tagi1240,Tagish,,60.242,-134.799,tagi1240,,262,language,Athabaskan-Eyak-Tlingit,languages
+tahl1239,Tahltan,,58.4498,-130.052,tahl1239,,263,language,Athabaskan-Eyak-Tlingit,languages
+take1257,Takelma,,42.423,-123.452,take1257,,265,language,,languages
+tana1289,Dena'ina,,60.4712,-150.759,tana1289,,268,language,Athabaskan-Eyak-Tlingit,languages
+tana1290,Tanacross,,63.4046,-143.338,tana1290,,267,language,Athabaskan-Eyak-Tlingit,languages
+tepe1278,Tepecano,,22.03529,-103.7367,tepe1278,,273,language,Uto-Aztecan,languages
+tewa1260,Rio Grande Tewa,,35.9053,-106.124,tewa1260,,230,language,Kiowa-Tanoan,languages
+thom1243,Thompson,,50.1668,-120.193,thom1243,,275,language,Salishan,languages
+till1254,Tillamook,,45.5,-123.83,till1254,,276,language,Salishan,languages
+timu1245,Timucua,,30.3027,-82.3132,timu1245,,272,language,,languages
+tlin1245,Tlingit,,59.4447,-135.29,tlin1245,,278,language,Athabaskan-Eyak-Tlingit,languages
+toho1245,Tohono O'odham,,31.7973,-111.995,toho1245,,294,language,Uto-Aztecan,languages
+tolo1259,Tolowa-Chetco,,41.9192,-124.1,tolo1259,,279,language,Athabaskan-Eyak-Tlingit,languages
+tong1329,Tongva,,34.1,-118.11,tong1329,,280,language,Uto-Aztecan,languages
+tonk1249,Tonkawa,,30.25,-96.75,tonk1249,,281,language,,languages
+tset1236,Tsetsaut,,55.5,-130.08,tset1236,,283,language,Athabaskan-Eyak-Tlingit,languages
+tuba1278,Tübatulabal,,35.327,-117.163,tuba1278,,284,language,Uto-Aztecan,languages
+tule1245,Tule-Kaweah Yokuts,,36.05354,-118.768616,tule1245,,285,language,Yokutsan,languages
+tuni1252,Tunica,,30.9888,-92.5403,tuni1252,,286,language,,languages
+tunu1234,Tunumiisiut,,65.613611,-37.631111,tunu1234,,70,language,Eskimo-Aleut,languages
+tusc1257,Tuscarora,,35.75362,-77.60117,tusc1257,,287,language,Iroquoian,languages
+tute1247,Tutelo,,37.67,-78.75,tute1247,,288,language,Siouan,languages
+tutu1242,Tututni,,42.5563,-124.293,tutu1242,,289,language,Athabaskan-Eyak-Tlingit,languages
+twan1247,Twana,,47.48952,-123.21227,twan1247,,290,language,Salishan,languages
+unam1242,Unami,,40.4,-74.3,unam1242,,291,language,Algic,languages
+uppe1436,Upper Umpqua,,43.22,-123.36,uppe1436,,296,language,Athabaskan-Eyak-Tlingit,languages
+uppe1437,Upper Tanana,,62.6867,-141.37,uppe1437,,295,language,Athabaskan-Eyak-Tlingit,languages
+uppe1438,Upper Kuskokwim,,62.2976,-155.951,uppe1438,,293,language,Athabaskan-Eyak-Tlingit,languages
+uppe1439,Upper Chehalis,,46.7981,-123.169,uppe1439,,292,language,Salishan,languages
+utes1238,Ute-Southern Paiute,,40.0965,-110.305,utes1238,,252 297 298,language,Uto-Aztecan,languages
+vent1242,Ventureño,,34.1761,-119.035,vent1242,,300,language,Chumashan,languages
+wail1244,Eel River Athabaskan,,39.1513,-123.284,wail1244,,78,language,Athabaskan-Eyak-Tlingit,languages
+wamp1250,Wampano,,41.2021,-73.3798,wamp1250,,229,language,Algic,languages
+wapp1239,Wappo,,38.25,-122.5,wapp1239,,302,language,Yuki-Wappo,languages
+wash1253,Washo,,38.8184,-119.64,wash1253,,303,language,,languages
+wenr1236,Wenro,,43.14,-78.475563,wenr1236,,304,language,Unclassifiable,languages
+west1510,Western Ojibwa,,50.5664,-102.525,west1510,,236,language,Algic,languages
+west2615,Western Apache,,33.8574,-110.123,west2615,,307,language,Athabaskan-Eyak-Tlingit,languages
+west2618,Western Canadian Inuktitut,,64.3486,-96.148,west2618,,308,language,Eskimo-Aleut,languages
+west2630,Western Abenaki,,46.1381,-72.6511,west2630,,306,language,Algic,languages
+west2632,Western Keres,,34.9733,-107.517,west2632,,3,language,Keresan,languages
+wich1260,Wichita,,35.0665,-98.1831,wich1260,,311,language,Caddoan,languages
+wint1259,Wintu,,39.7176,-122.445,wint1259,,184 313,language,Wintuan,languages
+wiyo1248,Wiyot,,39.2492,-122.952,wiyo1248,,314,language,Algic,languages
+wocc1242,Woccon,,35.379075,-77.985987,wocc1242,,315,language,Siouan,languages
+wood1236,Woods Cree,,57.0,-99.0,wood1236,,316,language,Algic,languages
+wyan1247,Huron-Wyandot,,44.33,-77.5,wyan1247,,107,language,Iroquoian,languages
+yana1271,Yana,,39.2769,-121.608,yana1271,,318,language,,languages
+yaqu1251,Yaqui,,29.9446,-110.681,yaqu1251,,320,language,Uto-Aztecan,languages
+yoku1256,Northern Yokuts,,36.3167,-119.721,yoku1256,,196,language,Yokutsan,languages
+yonc1234,Yoncalla,,43.568,-123.466,yonc1234,,322,language,Kalapuyan,languages
+yuch1247,Yuchi,,35.75,-86.75,yuch1247,,323,language,,languages
+yuki1243,Northern Yukian,,39.8389,-123.296,yuki1243,,324,language,Yuki-Wappo,languages
+yuro1248,Yurok,,41.3262,-123.824,yuro1248,,325,language,Algic,languages
+zuni1245,Zuni,,35.0056,-108.782,zuni1245,,327,language,,languages
+algi1248,Algic,,,,algi1248,,8 13 17 26 34 42 46 69 71 74 77 81 86 87 108 125 142 149 152 156 159 161 162 165 169 171 172 174 178 205 212 219 222 229 235 236 242 244 291 301 306 310 314 316 325,family,,families
+atha1245,Athabaskan-Eyak-Tlingit,,,,atha1245,,5 11 18 21 22 30 35 48 50 54 68 78 83 96 98 103 106 110 115 122 128 135 136 141 146 157 160 170 177 181 195 234 238 248 257 262 263 267 268 278 279 283 289 293 295 296 307,family,,families
+cadd1255,Caddoan,,,,cadd1255,,14 28 129 214 311,family,,families
+chim1311,Chimakuan,,47.632,-123.079,chim1311,,44 226,family,,families
+chin1490,Chinookan,,,,chin1490,,123 144,family,,families
+chum1262,Chumashan,,,,chum1262,,20 109 111 114 198 223 300,family,,families
+coch1271,Cochimi-Yuman,,,,coch1271,,29 57 99 113 126 155 166 207 225 277,family,,families
+coos1248,Coosan,,,,coos1248,,97 163,family,,families
+eski1264,Eskimo-Aleut,,,,eski1264,,7 38 40 70 72 176 187 206 243 246 305 308,family,,families
+haid1248,Haida,,,,haid1248,,93,family,,families
+iroq1247,Iroquoian,,,,iroq1247,,45 79 107 139 164 197 201 202 239 261 287,family,,families
+kala1402,Kalapuyan,,,,kala1402,,116 322,family,,families
+kere1287,Keresan,,,,kere1287,,3 73,family,,families
+kiow1265,Kiowa-Tanoan,,,,kiow1265,,127 218 230 256 269 282,family,,families
+maid1262,Maiduan,,,,maid1262,,132 150 182,family,,families
+miwo1274,Miwok-Costanoan,,,,miwo1274,,41 138 189 193 220 251 254 266,family,,families
+musk1252,Muskogean,,,,musk1252,,6 10 43 47 52 66 102 131,family,,families
+otom1299,Otomanguean,,,,otom1299,,210,family,,families
+pala1350,Palaihnihan,,,,pala1350,,2,family,,families
+pomo1273,Pomoan,,,,pomo1273,,39 75 121 188 191 250 253,family,,families
+saha1239,Sahaptian,,,,saha1239,,180 231,family,,families
+sali1255,Salishan,,,,sali1255,,23 53 58 59 63 65 85 95 117 140 143 148 185 194 199 216 227 237 245 258 259 275 276 290 292,family,,families
+shas1238,Shastan,,,,shas1238,,133 179,family,,families
+siou1252,Siouan,,,,siou1252,,15 25 36 67 101 112 118 153 200 204 221 224 233 260 274 288 312 315 319,family,,families
+tsim1258,Tsimshian,,,,tsim1258,,56 175,family,,families
+unat1236,Unattested,,,,unat1236,,90,family,,families
+uncl1493,Unclassifiable,,,,uncl1493,,12 32 158 173 217 228 249 304,family,,families
+utoa1244,Uto-Aztecan,,,,utoa1244,,1 19 31 60 76 82 91 104 105 124 145 147 168 190 192 203 211 241 252 255 270 271 273 280 284 294 297 298 309 320,family,,families
+waka1280,Wakashan,,,,waka1280,,94 100 137 151 183 186,family,,families
+wint1258,Wintuan,,,,wint1258,,184 213 313,family,,families
+yoku1255,Yokutsan,,,,yoku1255,,27 196 209 285,family,,families
+yuki1242,Yuki-Wappo,,,,yuki1242,,302 324,family,,families
