@@ -1,4 +1,33 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+bann1248,Bannock,,,,bann1248,,19,dialect,Uto-Aztecan,dialects
+bear1241,Bearlake Slavey,,65.186667,-123.421667,bear1241,,21,dialect,Athabaskan-Eyak-Tlingit,dialects
+coas1300,Coast Tsimshian,,,,coas1300,,56,dialect,Tsimshian,dialects
+colu1250,Columbia,,,,colu1250,,59,dialect,Salishan,dialects
+dako1259,Santee-Sisseton,,,,dako1259,,233,dialect,Siouan,dialects
+east2541,Eastern Swampy Cree,,,,east2541,,77,dialect,Algic,dialects
+hare1244,Hare,,65.18,-123.42,hare1244,,98,dialect,Athabaskan-Eyak-Tlingit,dialects
+hitc1239,Hitchiti,,,,hitc1239,,102,dialect,Muskogean,dialects
+hupa1240,Hupa,,,,hupa1240,,106,dialect,Athabaskan-Eyak-Tlingit,dialects
+kali1309,Kalispel,,,,kali1309,,117,dialect,Salishan,dialects
+male1293,Malecite,,,,male1293,,152,dialect,Algic,dialects
+moun1257,Mountain Slavey,,63.0,-125.75,moun1257,,170,dialect,Athabaskan-Eyak-Tlingit,dialects
+nako1239,Yankton-Yanktonai,,,,nako1239,,319,dialect,Siouan,dialects
+narr1280,Narrangansett,,,,narr1280,,156,dialect,Algic,dialects
+nico1265,Nicola Valley Athabaskan,,,,nico1265,,181,dialect,Athabaskan-Eyak-Tlingit,dialects
+noml1242,Nomlaki,,,,noml1242,,184,dialect,Wintuan,dialects
+nort2955,Northern Shoshoni,,,,nort2955,,192,dialect,Uto-Aztecan,dialects
+nucl1653,Nuclear Miami,,,,nucl1653,,161,dialect,Algic,dialects
+omah1248,Omaha,,,,omah1248,,200,dialect,Siouan,dialects
+pass1249,Passamaquoddy,,,,pass1249,,212,dialect,Algic,dialects
+pequ1242,Pequot-Mohegan,,41.55,-72.0,pequ1242,,165,dialect,Algic,dialects
+ponc1241,Ponca,,,,ponc1241,,221,dialect,Siouan,dialects
+sacc1239,Sac,,,,sacc1239,,235,dialect,Algic,dialects
+sant1427,Tamyen,,,,sant1427,,266,dialect,Miwok-Costanoan,dialects
+sout2969,Southern Paiute,,37.0,-114.0,sout2969,,252,dialect,Uto-Aztecan,dialects
+utee1244,Ute,,38.0,-109.0,utee1244,,297,dialect,Uto-Aztecan,dialects
+west2622,Western Shoshoni,,,,west2622,,309,dialect,Uto-Aztecan,dialects
+west2628,Western Swampy Cree,,,,west2628,,310,dialect,Algic,dialects
+yaqu1250,Yaquina,,,,yaqu1250,,321,dialect,Alsea-Yaquina,dialects
 achu1247,Achumawi,,41.0979,-121.191,achu1247,,2,language,Palaihnihan,languages
 adai1235,Adai,,31.6314,-92.0059,adai1235,,4,language,,languages
 ahte1237,Ahtena,,61.7068,-144.889,ahte1237,,5,language,Athabaskan-Eyak-Tlingit,languages

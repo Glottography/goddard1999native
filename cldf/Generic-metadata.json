@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/goddard1999native",
             "rdf:type": "prov:Entity",
-            "dc:created": "2bc6cfd",
+            "dc:created": "45a4c89",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 318,
+            "dc:extent": 347,
             "tableSchema": {
                 "columns": [
                     {
