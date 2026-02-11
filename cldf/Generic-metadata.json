@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/goddard1999native",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0.1",
+            "dc:created": "v1.0.1-1-gf6789e9",
             "dc:title": "Repository"
         },
         {
